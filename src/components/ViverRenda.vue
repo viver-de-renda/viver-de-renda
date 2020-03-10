@@ -49,7 +49,7 @@ export default {
   },
   data: function() {
       return {
-          resultado: 3,
+          resultado: 0,
           ganhar: 0,
           isDev: false,
           tiposInvestimento: [
